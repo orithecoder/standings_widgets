@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "id": "fb64784a-3eee-4648-ba78-699113731370",
+      "name": "Shortcuts",
+      "shortcuts": [
+        {
+          "iconName": "custom-icon_5207f9f7-a60e-435e-aba9-2ba3721b5d56.png",
+          "id": "aa958c58-9457-45d7-9195-2f1939bc4b2b",
+          "name": "nba_stands",
+          "responseHandling": {
+            "failureOutput": "none",
+            "id": "4adfece8-3864-4c99-8d43-ec52ca80a95c"
+          },
+          "url": "http://localhost:5000/nba_stands"
+        },
+        {
+          "iconName": "custom-icon_08e0947d-0107-4969-8920-0ac58af2bf9e.png",
+          "id": "bd1aaf4e-9ba8-48d1-b947-254c0ded7674",
+          "name": "euro_stands",
+          "responseHandling": {
+            "id": "34c20615-057b-4710-af7e-6a871095179c"
+          },
+          "url": "http://localhost:5000/euroleage_stands"
+        }
+      ]
+    }
+  ],
+  "version": 43
+}
